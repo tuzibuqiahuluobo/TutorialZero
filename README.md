@@ -2,13 +2,16 @@
   这是一个使用 C++ 和 EasyX 图形库开发的简单游戏项目。玩家可以控制角色移动并射击敌人，游戏中包含得分系统和背景音乐。
 ## Directory Structure
 
-
-. ├── img/          
 游戏图像资源
-├── mus/                   
+├── img/          
+
 游戏音频资源 
-├── src/                    
+
+├── mus/   
+
 源代码文件
+├── src/
+
 │  ├── main.cpp 
 
 │  ├── Globals.cpp
@@ -18,28 +21,51 @@
 │  ├── Player.cpp
 
 │  ├── Enemy.cpp
+
 │  ├── Bullet.cpp
+
 │  ├── Button.cpp 
+
 │  ├── StartGameButton.cpp 
+
 │  ├── QuitGameButton.cpp
+
 │  └── Utils.cpp 
-├── include/           
+
+├── include/
+
 # 头文件 
+
 │  ├── Globals.h 
+
 │  ├── Animation.h 
+
 │  ├── Player.h 
+
 │  ├── Enemy.h 
+
 │  ├── Bullet.h 
+
 │  ├── Button.h 
+
 │  ├── StartGameButton.h 
+
 │  ├── QuitGameButton.h 
+
 │  └── Utils.h
-├── Game.sln           
+
+├── Game.sln
+
 # Visual Studio 解决方案文件 
+
 ├── Game.vcxproj       
+
 # Visual Studio 项目文件
+
 └── README.md          
+
 # 项目介绍
+
 ## 依赖项
 
 - Visual Studio 2019 或更高版本
