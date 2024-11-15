@@ -4,15 +4,19 @@
 
 
 . ├── img/          
-# 游戏图像资源
+游戏图像资源
 ├── mus/                   
-# 游戏音频资源 
+游戏音频资源 
 ├── src/                    
-# 源代码文件
+源代码文件
 │  ├── main.cpp 
+
 │  ├── Globals.cpp
+
 │  ├── Animation.cpp
+
 │  ├── Player.cpp
+
 │  ├── Enemy.cpp
 │  ├── Bullet.cpp
 │  ├── Button.cpp 
