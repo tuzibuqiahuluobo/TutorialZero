@@ -4,30 +4,32 @@
 
 
 . ├── img/          
-# 游戏图像资源 ├── mus/                   
-# 游戏音频资源 ├── src/                    
-# 源代码文件 │  
-├── main.cpp │  
-├── Globals.cpp │  
-├── Animation.cpp │  
-├── Player.cpp │  
-├── Enemy.cpp │  
-├── Bullet.cpp │  
-├── Button.cpp │  
-├── StartGameButton.cpp │ 
-├── QuitGameButton.cpp │  
-└── Utils.cpp 
+# 游戏图像资源
+├── mus/                   
+# 游戏音频资源 
+├── src/                    
+# 源代码文件
+│  ├── main.cpp 
+│  ├── Globals.cpp
+│  ├── Animation.cpp
+│  ├── Player.cpp
+│  ├── Enemy.cpp
+│  ├── Bullet.cpp
+│  ├── Button.cpp 
+│  ├── StartGameButton.cpp 
+│  ├── QuitGameButton.cpp
+│  └── Utils.cpp 
 ├── include/           
-# 头文件 │  
-├── Globals.h │ 
-├── Animation.h │ 
-├── Player.h │  
-├── Enemy.h │  
-├── Bullet.h │  
-├── Button.h │  
-├── StartGameButton.h │ 
-├── QuitGameButton.h │ 
-└── Utils.h
+# 头文件 
+│  ├── Globals.h 
+│  ├── Animation.h 
+│  ├── Player.h 
+│  ├── Enemy.h 
+│  ├── Bullet.h 
+│  ├── Button.h 
+│  ├── StartGameButton.h 
+│  ├── QuitGameButton.h 
+│  └── Utils.h
 ├── Game.sln           
 # Visual Studio 解决方案文件 
 ├── Game.vcxproj       
