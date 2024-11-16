@@ -116,16 +116,3 @@ Visual Studio Project File
 
 └── README.md          
 
-## 贡献 
-## Contributions
-
-欢迎提交问题和拉取请求来改进这个项目。请确保在提交前阅读并遵循项目的贡献指南。
-
-Issues and pull requests are welcome to improve this project. Please make sure to read and follow the project's contribution guidelines before submitting.
-
-## 许可证
-## License
-
-该项目使用 MIT 许可证。详情请参阅 [LICENSE](LICENSE) 文件。
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
